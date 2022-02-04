@@ -2,7 +2,7 @@
 ### Information
 - **Age** - 15
 - **Country** - Russia
-- **Languages** - C#, Python, C++, Java (learning)
+- **Languages** - C#, PHP, Python, C++, Java (learning)
 - **Current Projects** - (All in private :) )
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, VS Code, Visual Studio 2022
 - **Coding experience** - 4 years
