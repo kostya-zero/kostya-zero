@@ -1,16 +1,13 @@
-### Hi there 👋
+## Kostya ".ZΞRO"
+### Information
+- **Age** - 15
+- **Country** - Russia
+- **Languages** - C#, Python, C++, Java (learning)
+- **Current Projects** - (All in private :) )
+- **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, VS Code, Visual Studio 2022
+- **Coding experience** - 4 years
 
-<!--
-**kostya-zero/kostya-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+- **VK** - https://vk.com/kostya_zer0
+- **Discord** - .ZΞRO#4731
+- **Telegram** - @kostya_zer0
