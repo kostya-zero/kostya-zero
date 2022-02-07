@@ -1,7 +1,8 @@
 ## Kostya ".ZΞRO"
 ### Information
 - **Age** - 15
-- **Country** - Russia
+- **In relationship** - Yes 
+- **Country** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++, Java (learning)
 - **Current Projects** - CoreLang
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, VS Code, Visual Studio 2022
