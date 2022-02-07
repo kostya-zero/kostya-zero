@@ -2,7 +2,7 @@
 ### Information
 - **Age** - 15
 - **In relationship** - Yes 
-- **Country** - Russia, Orechovo-Zuevo
+- **Location** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++, Java (learning)
 - **Current Projects** - CoreLang
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, VS Code, Visual Studio 2022
