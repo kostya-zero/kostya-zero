@@ -3,7 +3,7 @@
 - **Age** - 15
 - **Location** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++, Java (learning)
-- **Current Projects** - CoreLang
+- **Current Projects** - CoreLang, Aurora, UShell
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, VS Code, Visual Studio 2022
 - **Coding experience** - 4 years
 
