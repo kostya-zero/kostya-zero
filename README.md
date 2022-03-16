@@ -2,7 +2,7 @@
 ### Information
 - **Age** - 15
 - **Location** - Russia, Orechovo-Zuevo
-- **Languages** - C#, PHP, Python, C++, Java (learning)
+- **Languages** - C#, PHP, Python, C++, Java, C (learning)
 - **Current Projects** - Ventura, UShell
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider
 - **Coding experience** - 4 years
