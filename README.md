@@ -3,7 +3,7 @@
 - **Age** - 15
 - **Location** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++, Java, C (learning)
-- **OS** - Windows 11 Insider (Build 22572), Debian, Linux Mint
+- **OS** - Windows 11 Insider (Build 22572), Linux Mint
 - **Current Projects** - Ventura, UShell
 - **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider
 - **Coding experience** - 4 years
