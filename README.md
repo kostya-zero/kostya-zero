@@ -5,7 +5,7 @@
 - **Languages** - C#, PHP, Python, C++, Java, C (learning)
 - **OS** - Windows 10, Arch Linux
 - **Current Projects** - Ventura, UShell
-- **IDE's** - PyCharm, CLion, IntelliJ IDEA, Rider, Vim
+- **IDE's** - PyCharm, Rider, Vim
 - **Coding experience** - 4 years
 
 ### Contact me
