@@ -5,7 +5,7 @@
 - **Languages** - C#, PHP, Python, C++
 - **Learning now** - C, Java
 - **OS** - Windows 10, Arch Linux
-- **Current Projects** - Ventura, UShell
+- **Current Projects** - Ventura, UShell, zNet
 - **IDE's** - PyCharm, Rider, Vim
 - **Coding experience** - 4 years
 - **Dot Files** - https://github.com/kostya-zero/zero-dotfiles
@@ -13,6 +13,7 @@
 ### Projects 
 - **Ventura** - https://github.com/kostya-zero/Ventura
 - **UShell (Discontinued)** - https://github.com/kostya-zero/UShell
+- **zNet** - https://github.com/kostya-zero/zNet
 
 ### Contact me
 - **VK** - https://vk.com/kostya_zer0
