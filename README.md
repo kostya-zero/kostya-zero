@@ -8,7 +8,7 @@
 - **Current Projects** - Ventura, UShell, zNet
 - **IDE's** - PyCharm, Rider, Vim
 - **Coding experience** - 4 years
-- **Dot Files** - https://github.com/kostya-zero/zero-dotfiles
+- **Dot Files** - https://github.com/kostya-zero/dotfiles
 
 ### Projects 
 - **Ventura** - https://github.com/kostya-zero/Ventura
