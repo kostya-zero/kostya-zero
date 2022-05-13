@@ -1,13 +1,13 @@
 ## Kostya ".ZΞRO" Zhigaylo
 ### Information
-- **Age** - 15
+- **Age** - 16
 - **Location** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++
 - **Learning now** - C, Java
 - **OS** - Windows 10, Arch Linux
 - **Current Projects** - Ventura, UShell, zNet
 - **IDE's** - PyCharm, Rider, Vim
-- **Coding experience** - 4 years
+- **Coding experience** - 5 years
 - **Dot Files** - https://github.com/kostya-zero/dotfiles
 
 ### Projects 
