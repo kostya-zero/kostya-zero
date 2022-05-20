@@ -4,7 +4,7 @@
 - **Location** - Russia, Orechovo-Zuevo
 - **Languages** - C#, PHP, Python, C++
 - **Learning now** - C, Java
-- **OS** - Windows 10, Arch Linux
+- **OS** - Windows 10, Artix Linux
 - **Current Projects** - Ventura, UShell, zNet
 - **IDE's** - PyCharm, Rider, Vim
 - **Coding experience** - 5 years
