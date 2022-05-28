@@ -15,7 +15,7 @@
     </a>
  </div>
 
-# 👋 Who am I?
+## 👋 Who am I?
 My name in **Konstantin** (or simply **Kostya**). Im **16 years old**. I am a **Python and C# developer** who like what he do Living in **Russia**, **Orechovo-Zuevo**.
 
 I started learning programming languages in deep 2017. My first language was JavaScript.
@@ -36,7 +36,7 @@ From 2021 to this time I have Python.
 At now, I would like to learn C++ and Java. 
 Java firstly, because its more similiar to C# (Microsoft Java, lol).
 
-# ⚙️ My Toolkit
+## ⚙️ My Toolkit
 Usually, I use JetBrains Tools and IDE's, because it make's my work more productive and comfortable!
 And, what's in my toolkit?
 
@@ -55,10 +55,10 @@ And, what's in my toolkit?
 - Visual Studio Code
 - Neovim
 
-# 💼 Interesting projects
+## 💼 Interesting projects
 How about to check my very interesting projects?
 - [Ventura](https://github.com/kostya-zero/Ventura)
 - [EasyNotepad](https://github.com/kostya-zero/EasyNotepad)
 
-# 📊 Statistics
+## 📊 Statistics
 ![Metrics](https://metrics.lecoq.io/kostya-zero?template=classic&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
