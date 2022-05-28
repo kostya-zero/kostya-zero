@@ -48,7 +48,7 @@ So, what's in my toolkit?
 - Visual Studio Blend (for XAML desing)
  
 ### 📝 Other tools from toolkit
-- JetBrains PyCharm 2022.1.1
+- JetBrains PyCharm Professional 2022.1.1
 - JetBrains IntelliJ IDEA 2022.1.1
 - JetBrains WebStorm 2022.1.1
 - JetBrains CLion 2022.1.1
