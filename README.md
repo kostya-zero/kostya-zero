@@ -41,17 +41,17 @@ Usually, I use JetBrains Tools and IDE's, because it make's my work more product
 So, what's in my toolkit?
 
 ### 💻 Tools for C# development
-- JetBrains Rider 2021.3.1
-- JetBrains dotTrace 2021.2.3
-- JetBrains dotPeek 2022.1
-- JetBrains dotMemory 2021.2.3
+- JetBrains Rider 2022.1.1
+- JetBrains dotTrace 2022.1.1
+- JetBrains dotPeek 2022.1.1
+- JetBrains dotMemory 2022.1.1
 - Visual Studio Blend (for XAML desing)
  
 ### 📝 Other tools from toolkit
-- JetBrains PyCharm 2021.3
-- JetBrains IntelliJ IDEA 2021.3
-- JetBrains WebStorm 2021.3
-- JetBrains CLion 2021.3
+- JetBrains PyCharm 2022.1.1
+- JetBrains IntelliJ IDEA 2022.1.1
+- JetBrains WebStorm 2022.1.1
+- JetBrains CLion 2022.1.1
 - Visual Studio Code
 - Neovim
 
