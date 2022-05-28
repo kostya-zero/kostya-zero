@@ -2,8 +2,8 @@
 ### Information
 - **Age** - 16
 - **Location** - Russia, Orechovo-Zuevo
-- **Languages** - C#, PHP, Python, C++
-- **Learning now** - C, Java
+- **Languages** - C#, PHP, Python
+- **Learning now** - Jav, C++
 - **OS** - Windows 10, Artix Linux
 - **Current Projects** - Ventura, UShell, zNet
 - **IDE's** - PyCharm, Rider, Vim
