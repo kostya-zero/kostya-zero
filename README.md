@@ -38,7 +38,7 @@ Java firstly, because its more similiar to C# (Microsoft Java, lol).
 
 ## ⚙️ My Toolkit
 Usually, I use JetBrains Tools and IDE's, because it make's my work more productive and comfortable!
-And, what's in my toolkit?
+So, what's in my toolkit?
 
 ### 💻 Tools for C# development
 - JetBrains Rider 2021.3.1
