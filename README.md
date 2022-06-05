@@ -32,7 +32,7 @@ Source code of my language was looks like jungle.
 After 2 months, I have terminated repository and end development of **zScript**.
 
 At 2021 I was interested of learning another language. 
-From 2021 to this time I have Python.
+From 2021 to this time I have learned Python.
 At now, I would like to learn C++ and Java. 
 Java firstly, because its more similiar to C# (Microsoft Java, lol).
 
