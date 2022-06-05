@@ -1,92 +1,64 @@
-# Kostya Zero
+<p align=center>
+    <h1 align=center>Konstantin ".ZΞRO" Zhigaylo</h1>
+    
+</p>
 
+<div id="badges" align=center>
+    <a href="https://gitlab.com/kostya-zero">
+        <img src="https://img.shields.io/badge/GitLab-yellow?logo=gitlab&style=for-the-badge"/>
+    </a>
+    <a href="https://vk.com/kostya_zer0">
+        <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&style=for-the-badge"/>
+    </a>
+    <a href="https://t.me/kostya_zer0">
+        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge"/>
+    </a>
+ </div>
 
+## 👋 Who am I?
+My name in **Konstantin** (or simply **Kostya**). Im **16 years old**. I am a **Python and C# developer** who like what he do Living in **Russia**, **Orechovo-Zuevo**.
 
-## Getting started
+I started learning programming languages in deep 2017. My first language was JavaScript.
+At that moment, I wasn't interested in web development. I just learn it for myself.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+In the past, in 2019 I hear about PHP Devel Studio that's allows you to write desktop application in PHP.
+I was interested, because that's sounds good! It take 1 year and I have created terminal emulator, desktop shell and simple notepad (default for every coders 🙃).
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+After PHP, I learn C# and that's was my main programming language for next time (from 2020 to this moment).
+I learn how to work woth **JSON**, **VK API**, **Windows API** and **more**. 
+At the first time, I use C# only for desktop development. 
+A-a-a-and, super interesting fact, I create my own programming language named **zScript**!
+Source code of my language was looks like jungle.
+After 2 months, I have terminated repository and end development of **zScript**.
 
-## Add your files
+At 2021 I was interested of learning another language. 
+From 2021 to this time I have Python.
+At now, I would like to learn C++ and Java. 
+Java firstly, because its more similiar to C# (Microsoft Java, lol).
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+## ⚙️ My Toolkit
+Usually, I use JetBrains Tools and IDE's, because it make's my work more productive and comfortable!
+So, what's in my toolkit?
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/kostya-zero/kostya-zero.git
-git branch -M main
-git push -uf origin main
-```
+### 💻 Tools for C# development
+- JetBrains Rider 2022.1.1
+- JetBrains dotTrace 2022.1.1
+- JetBrains dotPeek 2022.1.1
+- JetBrains dotMemory 2022.1.1
+- Visual Studio Blend (for XAML desing)
+ 
+### 📝 Other tools from toolkit
+- JetBrains PyCharm 2022.1.1
+- JetBrains IntelliJ IDEA 2022.1.1
+- JetBrains WebStorm 2022.1.1
+- JetBrains CLion 2022.1.1
+- Visual Studio Code
+- Neovim
 
-## Integrate with your tools
+## 💼 Interesting projects
+How about to check my very interesting projects?
+- [Ventura](https://github.com/kostya-zero/Ventura)
+- [EasyNotepad](https://github.com/kostya-zero/EasyNotepad)
 
-- [ ] [Set up project integrations](https://gitlab.com/kostya-zero/kostya-zero/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## 📊 Statistics
+![Metrics](https://metrics.lecoq.io/kostya-zero?template=classic&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
