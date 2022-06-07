@@ -1,7 +1,7 @@
-<p align=center>
-    <h1 align=center>Konstantin ".ZΞRO" Zhigaylo</h1>
-    
-</p>
+<div align="center">
+  # Konstantin ".ZΞRO" Zhigaylo
+</div>
+
 
 <div id="badges" align=center>
     <a href="https://gitlab.com/kostya-zero">
