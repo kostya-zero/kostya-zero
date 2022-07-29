@@ -1,5 +1,5 @@
 # Konstantin ".ZERO" Zhigaylo
- **Kostya**, **16 years old**. Living in **Russia**, **Orekhovo-Zuyevo**. Back-end **C#** and **Pyhton** developer. Development for Linux platform. 5 years of coding. **#NoSystemd**
+ **Kostya**, **16 years old**. Living in **Russia**, **Orekhovo-Zuyevo**. Back-end **C#** and **Python** developer. Development for Linux platform. 5 years of coding. **#NoSystemd**
 
 ## ⚙️ Toolkit
  - JetBrains Rider
