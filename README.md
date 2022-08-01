@@ -1,4 +1,4 @@
-![header](poster.png)
+![header](https://raw.githubusercontent.com/kostya-zero/kostya-zero/main/poster.png)
 <div align="center">
     <h1>Konstantin ".ZERO" Zhigaylo</h1>    
 </div>
@@ -20,7 +20,7 @@
     <h2>My workspace</h2>
 </div>
 
-<img align="right" height="200px"  src="img1.png" />
+<img align="right" height="200px"  src="https://raw.githubusercontent.com/kostya-zero/kostya-zero/main/img1.png" />
 
 - **Operating System** - ArtixLinux.
 - **Kernel** - 5.18.14 (self compiled)
