@@ -1,6 +1,6 @@
 ![header](poster.png)
 <div align="center">
-    # Konstantin ".ZERO" Zhigaylo  
+    <h1>Konstantin ".ZERO" Zhigaylo</h1>    
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 - :technologist: Prefer to work alone.
 
 <div align="center">
-    ## My workspace
+    <h2>My workspace</h2>
 </div>
 
 <img align="right" height="200px"  src="img1.png" />
@@ -34,7 +34,7 @@
 - **Dot Files** - https://gitlab.com/kostya-zero/dotfiles
 
 <div align="center">
-    ## Socials w/ contacts
+    <h2>Socials w/ contacts</h2>
 </div>
 
 - **Mastodon** - https://mastodon.ml/@kostya_zer0
