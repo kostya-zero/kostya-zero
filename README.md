@@ -14,10 +14,10 @@ matrix: https://matrix.to/#/@kostya_zer0:matrix.org
 telegram: https://t.me/kostya_zer0
 
 ~ > pfetch
-       /\         zero@zeropc
+       /\         zero@archlinux
       /  \        os     Arch Linux
      /\   \       host   x86_64
-    /      \      kernel 6.0.7-zen1-1-zen
+    /      \      kernel 5.15.84-1-lts
    /   ,,   \     
   /   |  |  -\    
  /_-''    ''-_\
