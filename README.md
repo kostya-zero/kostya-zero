@@ -2,17 +2,14 @@
     <img src="banner.png">
 </div>
 
-## :closed_book: Who am I?
+<img src="https://github-readme-stats.vercel.app/api?username=kostya-zero&theme=dark&show_icons=true" align="right">
 
-I'm a high school student who love open-source, Linux and related stuff, developing software and learning computer science.
-I develop programs in C#, Python and Rust.
-My main language is C# with the .NET framework.
-I am developing a [zeroProbe](https://github.com/kostya-zero/zeroProbe) utility which simplifies the process of testing projects and releasing them into production and a build system for Python projects called [Pipe](https://github.com/kostya-zero/pipe).
-My main OS is ArchLinux with a Hyprland window manager.
-Usually Linux-based systems become the target platform for my programs.
-You can look at my dot files in a special repository.
-Fell in love with pastel color schemes.
-Down below, you can see my socials.
+- I'm a high school student who love open-source, Linux and related stuff, developing software and learning computer science.
+- I develop programs in C#, Python and Rust.
+- My main OS is ArchLinux with a KDE Plasma.
+- Usually Linux-based systems become the target platform for my programs.
+- Fell in love with pastel color schemes.
+- Currently working on [Pipe](https://github.com/kostya-zero/pipe) and [zeroProbe](https://github.com/kostya-zero/zeroProbe).
 
 [![Misskey Blog](https://img.shields.io/badge/-Misskey-282828?style=flat-square&logo=bookstack&logoColor=white)](https://fedi.debilosempire.org/@kostya_zer0)
 [![Matrix](https://img.shields.io/badge/-Matrix-282828?style=flat-square&logo=matrix)](https://matrix.to/#/@kostya_zer0:debilosempire.org)
