@@ -2,8 +2,6 @@
     <img src="banner.png">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kostya-zero&theme=dark&show_icons=true" align="right">
-
 - I'm a high school student who love open-source, Linux and related stuff, developing software and learning computer science.
 - I develop programs in C#, Python and Rust.
 - My main OS is ArchLinux with a KDE Plasma.
