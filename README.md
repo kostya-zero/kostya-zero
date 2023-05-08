@@ -20,8 +20,7 @@
     </a>
 </div>
 
-- 👋 I'm a high school student who love open-source, Linux and related stuff, developing software and learning computer science.
-- ⌨️ I develop programs in C#, Python and Rust using Neovim.
-- 💽 Using ArchLinux with a Hyprland Wayland Compositor.
-- 📓 Usually Linux-based systems become the target platform for my programs.
-- 💼 Currently working on [Pipe](https://github.com/kostya-zero/pipe) and [zeroProbe](https://github.com/kostya-zero/zeroProbe).
+- 👋 I'm a high school student, full-stack developer and system administrator.
+- ⌨️ I develop programs in Rust and Python with Neovim.
+- 💽 Using ArchLinux with a GNOME Shell.
+- 💼 Currently working on [Waller](https://gitlab.com/kostya-zero/waller) and [Yosoku](https://gitlab.com/kostya-zero/yosoku).
