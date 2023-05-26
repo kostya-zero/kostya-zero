@@ -23,4 +23,4 @@
 - 👋 I'm a high school student, full-stack developer and system administrator.
 - ⌨️ I develop programs in Rust and Python with Neovim.
 - 💽 Using ArchLinux with a KDE Plasma.
-- 💼 Currently working on [Waller](https://gitlab.com/kostya-zero/waller) and [Yosoku](https://gitlab.com/kostya-zero/yosoku).
+- 💼 Currently working on [Kamiya](https://gitlab.com/kostya-zero/kamiya), [Waller](https://gitlab.com/kostya-zero/waller) and [Pipe](https://gitlab.com/kostya-zero/pipe).
