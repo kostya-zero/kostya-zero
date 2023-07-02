@@ -3,8 +3,8 @@
 </div>
 
 <div class="badges" align="center">
-    <a href="https://fedi.debilosempire.org/@kostya_zer0">
-        <img src="https://img.shields.io/badge/Blog-Misskey-202020?style=for-the-badge&logo=bookstack&logoColor=white&colorA=202020&colorB=A4E26B">
+    <a href="https://md.debilosempire.org/@kostya_zer0">
+        <img src="https://img.shields.io/badge/Blog-Mastodon-202020?style=for-the-badge&logo=mastodon&logoColor=white&colorA=202020&colorB=A4E26B">
     </a>
     <a href="https://matrix.to/#/@kostya_zer0:debilosempire.org">
         <img src="https://img.shields.io/badge/Chat-Matrix-202020?style=for-the-badge&logo=matrix&logoColor=white&colorA=202020&colorB=55EC8F">
