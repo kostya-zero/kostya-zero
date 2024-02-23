@@ -1,5 +1,5 @@
-- I'm a high school student, indie developer and system administrator.
-- I develop projects in Rust and Python.
+- High school student, indie developer and system administrator.
+- I develop projects in Rust, learning Zig.
 - Currently working on [Enjo](https://gitlab.com/kostya-zero/enjo), [Tesuto](https://gitlab.com/kostya-zero/tesuto) and [Resup](https://gitlab.com/kostya-zero/resup).
 
 <div class="badges">
