@@ -1,7 +1,11 @@
-- Indie developer and system administrator.
+- A software developer and a system administrator.
 - I develop projects in Rust, learning TypeScript and Next JS.
+- I work at [Nexon Collective](https://github.com/NexonCollective).
 
 <div class="badges">
+    <a href="https://github.com/kostya-zero/dotfiles">
+        <img src="https://img.shields.io/badge/Dotfiles-202020?style=flat-square&logo=neovim&logoColor=white&colorA=202020&colorB=202020">
+    </a>
     <a href="https://t.me/@kostya_zero">
         <img src="https://img.shields.io/badge/Telegram-202020?style=flat-square&logo=telegram&logoColor=white&colorA=202020&colorB=202020">
     </a>
