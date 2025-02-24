@@ -1,6 +1,6 @@
 - A software developer and a system administrator.
 - I develop projects in Rust, learning TypeScript and Next JS.
-- I work at [Nexon Collective](https://github.com/NexonCollective).
+- Currently working at [Nexon Collective](https://github.com/NexonCollective).
 
 <div class="badges">
     <a href="https://github.com/kostya-zero/dotfiles">
