@@ -1,4 +1,4 @@
-- A software developer and a system administrator.
+- A programmer and a system administrator.
 - I develop projects in Rust, learning TypeScript and Next JS.
 
 <div class="badges">
