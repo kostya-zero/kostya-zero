@@ -1,5 +1,5 @@
 - A programmer and a system administrator.
-- I develop projects in Rust, learning TypeScript and Next JS.
+- Using Rust and TypeScript. Learning Go.
 
 <div class="badges">
     <a href="https://github.com/kostya-zero/dotfiles">
