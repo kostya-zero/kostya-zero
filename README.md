@@ -11,4 +11,7 @@
     <a href="https://wakatime.com/@c0a0d402-e6a6-432a-93b8-6247146fc847">
         <img src="https://wakatime.com/badge/user/c0a0d402-e6a6-432a-93b8-6247146fc847.svg?style=flat-square">
     </a>
+    <a href="https://www.codewars.com/users/kostya-zero">
+        <img src="[https://wakatime.com/badge/user/c0a0d402-e6a6-432a-93b8-6247146fc847.svg?style=flat-square](https://www.codewars.com/users/kostya-zero/badges/small)">
+    </a>
 </div>
