@@ -1,5 +1,5 @@
 - A programmer and a system administrator.
-- Using Rust and TypeScript. Learning Go and C++.
+- Using Rust and TypeScript. Learning Go.
 
 <div class="badges">
     <a href="https://github.com/kostya-zero/neovim">
