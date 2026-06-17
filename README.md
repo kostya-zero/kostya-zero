@@ -8,10 +8,7 @@
     <a href="https://t.me/@kostya_zero">
         <img src="https://img.shields.io/badge/Telegram-202020?style=flat-square&logo=telegram&logoColor=white&colorA=202020&colorB=202020">
     </a>
-    <a href="https://wakatime.com/@c0a0d402-e6a6-432a-93b8-6247146fc847">
-        <img src="https://wakatime.com/badge/user/c0a0d402-e6a6-432a-93b8-6247146fc847.svg?style=flat-square">
+    <a href="https://www.codewars.com/users/kostya-zero">
+        <img src="https://www.codewars.com/users/kostya-zero/badges/small">
     </a>
 </div>
-<a href="https://www.codewars.com/users/kostya-zero">
-    <img src="https://www.codewars.com/users/kostya-zero/badges/small">
-</a>
