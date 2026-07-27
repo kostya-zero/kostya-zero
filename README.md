@@ -1,5 +1,5 @@
 - A programmer and a system administrator.
-- Using Rust and TypeScript. Love low-level programming.
+- Using Rust and TypeScript.
 
 <div class="badges">
     <a href="https://github.com/kostya-zero/dotfiles">
