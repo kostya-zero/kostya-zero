@@ -1,4 +1,4 @@
-- A programmer and a system administrator.
+- A programmer and a DevOps Engineer.
 - Using Rust and TypeScript.
 
 <div class="badges">
